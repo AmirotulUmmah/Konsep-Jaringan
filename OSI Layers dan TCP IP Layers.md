@@ -1,4 +1,4 @@
-# OSI LAYER
+# OSI LAYERS
 
 Model OSI atau Open System Information Reference Model for Open Networking adalah model jaringan yang dikembangkan oleh ISO/International Organization for Standarization pada tahun 1997. Model ini juga disebut dengan OSI Seven Layer Mode atau Model Tujuh Lapis OSI.
 OSI bisa membuat suatu perangkat bisa berkomunikasi dengan perangkat lain sesuai dengan protokol. Dengan adanya OSI, manusia bisa saling mengirimkan pesan/informasi antar perangkat dengan mudah dan efisien. OSI layer dapat memudahkan PC, jaringan komputer, serta software develpoment agar bisa tersambung tanpa perlu melakukan pengaturan khusus. OSI Layer bekerja melewati tujuh lapisan yang berurutan. Hal ini dapat memudahkan proses pencarian titik awal permasalahan sehingga pelacakan masalah jaringan dapat dilakukan dengan efisien. Berikut penjelasn 7 lapisan OSI Layer :
@@ -25,7 +25,7 @@ Lapisan ini mengelola format data dan enkripsi. Ini mengonversi data ke format y
 Lapisan ini merupakan lapisan di mana pengguna bisa berinteraksi dengan aplikasi yang menggunakan fungsionalitas jaringan. Aplikasi yang beroperasi pada lapisan ini conothnya web browser dan email. Aplikasi tersebut berhubungan protokol yang digunakan untuk komunikasi antar aplikasi. Contoh protokol yang ada di lapisan ini yakni HTTP dan SMTP
 
 
-# TCP/IP LAYER
+# TCP/IP LAYERS
 
 TCP/IP adalah isingkatan dari Transmission Control Protocol/Internet Protocol. TCP/IP merupakan protokol standar dalam jaringan komputer untuk menjembatani pertukaran data antar perangkat dalam jaringan tersebut. Keduanya merupakan jaringan komputer yang terpisah namun harus bekerja sama.
 IP merupakan server untuk memperoleh alamat tujuan data dikirimkan sedangkan TCP berfungsi untuk mengirim data setelah alamat ditemukan oleh IP.

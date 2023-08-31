@@ -15,3 +15,4 @@ http.cap adalah sebuah file yang berisi rekaman lalu lintas jaringan yang terkai
    7. DELETE
       DELETE digunakan untuk menghapus resource yang ditentukan dari server. DELETE akan menghapus resource yang diidentifikasi oleh URL yang diberikan server. Metode ini juga bersifat idempoten, yakni tidak akan mengubah hasil yang dihasilkan walaupun permintaan DELETE dikirim beberapa kali.
 
+Pada http.cap, per barisnya menunjukkan komunikasi per paket. Source menunjukkan alamat IP, length menunjukkan panjang paket, dan protocol menunjukkan jenis protokol yang dipakai oleh paket tersebut. 

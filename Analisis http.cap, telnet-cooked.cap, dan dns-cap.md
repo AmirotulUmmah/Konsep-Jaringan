@@ -1,5 +1,5 @@
 # Konsep-Jaringan
-<br><br>
+
 ## http.cap
 
 http.cap adalah sebuah file yang berisi rekaman lalu lintas jaringan yang terkait dengan protokol http. Isi dari file tersebut tergantung dengan apa protokol http yang digunakan dalam komunikasi tersebut dan berisi serangkaian paket jaringan yang mencakup request dan response http antara client (seperti web browser) dan web server. Setiap paket biasanya mencakup informasi seperti :
@@ -15,4 +15,15 @@ http.cap adalah sebuah file yang berisi rekaman lalu lintas jaringan yang terkai
    7. DELETE
       DELETE digunakan untuk menghapus resource yang ditentukan dari server. DELETE akan menghapus resource yang diidentifikasi oleh URL yang diberikan server. Metode ini juga bersifat idempoten, yakni tidak akan mengubah hasil yang dihasilkan walaupun permintaan DELETE dikirim beberapa kali.
 
-Pada http.cap, per barisnya menunjukkan komunikasi per paket. Source menunjukkan alamat IP, length menunjukkan panjang paket, dan protocol menunjukkan jenis protokol yang dipakai oleh paket tersebut. 
+Pada http.cap, per barisnya menunjukkan komunikasi per paket. Source menunjukkan alamat IP, length menunjukkan panjang paket, dan protocol menunjukkan jenis protokol yang dipakai oleh paket tersebut.
+
+Saat kita akan membuka sebuah website, secara default kita sedang meminta server untuk membuka file index.html atau index.php. Jika file tersebut tidak ditemukan, maka yang muncul pada browser adalah "nout found". Contoh pada server pens.ac.id, saat kita mencari file index.php maka file tersebut muncul. Jika kita cari index.html, muncul "404 not found" karena yang ada di server adalah file index.php bukan index.html.
+
+## telnet-cooked.cap
+
+Telnet adalah protokol jaringan yang digunakan untuk mengakses dan emngendalikan perangkat jarak jauh melalui jaringan. Prokol ini digunakan untuk menghubungkan ke host atau server jarak jauh dan melakukan interaksi dengan perangkat tersebut seperti mengirim perintah, menerima responns, atau mengelola konfigurasi. Telnet umumnya digunakan melalui baris perintah atau terminal.
+Namun telnet memiliki beberapa masalah keamanan, yakni data yang dikirim melalui protokol ini tidak terenkripsi. Sehingga informasi sensitif seperti username beserta password dapat diketahui pihak lain.
+
+File telnet-cooked.cap berisi tentang rekaman lalu lintas jaringan yang menggunakan protokol Telnet, termasuk paket-paket Telnet yang berisi request dan response yang dikirim antara client dengan Telnet server.
+
+

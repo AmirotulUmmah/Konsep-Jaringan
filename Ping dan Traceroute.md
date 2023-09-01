@@ -5,6 +5,7 @@ Amirotul Ummah (3122600017) - 2 D4 Teknik Informatika A
 Mata Kuliah  :
 Konsep Jaringan
 
+## Definisi singkat
 Konektivitas merupakan kemampuan perangkat atau host untuk terhubung dan berkomunikasi dengan perangkat lain dalam jaringan. Hal ini penting untuk memastikan bahwa aliran data dan informasi dapat berjalan dengan lancar antara berbagai perangkat, baik di dalam jaringan lokal maupun melalui internet. Konektivitas yang baik adalah dasar bagi komunikasi yang efisien dan operasi yang stabil dalam lingkungan teknologi informasi.
 
 Ada beberapa cara untuk menguji konektivitas di dalam jaringan yakni dengan nslookup/dig, telnet, curl/wget, arp, ifconfig/ipconfig, ping6/tracert6, nmap, tcpdump, dan sebagainya. Diantaranya yang paling sederhana adalah ping dan traceroute.

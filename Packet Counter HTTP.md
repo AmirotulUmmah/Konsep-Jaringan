@@ -35,7 +35,7 @@ Kategori ini terdiri dari kode status 5xx. Kode status ini menunjukkan bahwa ser
 ##### Broken
 Kategori "broken" dalam konteks respons HTTP tidak umum digunakan dalam istilah resmi. Namun, dalam beberapa kasus, istilah ini mungkin merujuk pada respons yang rusak, tidak lengkap, atau tidak sesuai dengan standar HTTP. Respons yang rusak dapat terjadi karena masalah dalam komunikasi atau penanganan di pihak server atau klien.
 
-#### Field per Topic/Item
+## Field per Topic/Item
 ##### Count
 count merujuk pada jumlah keseluruhan dari elemen tertentu dalam suatu kategori tertentu. Misalnya, dalam analisis protokol jaringan, field count bisa merujuk pada jumlah paket dalam kategori tertentu seperti permintaan atau respons HTTP. Dalam packet counter http di atas, ditunjukkan bahwa total HTTP Packets adalah 4 dengan 2 Response Success HTTP Packets dan 2 GET HTTP Request Packets/
 

@@ -1,4 +1,8 @@
-# Konsep-Jaringan
+# ANALISIS http.cap, telnet-cooked.cap, DAN dns.cap
+Oleh      :
+Amirotul Ummah (3122600017) -  2 D4 Teknik Informatika <br>
+Mata Kuliah      :
+Konsep Jaringan
 
 ## http.cap
 

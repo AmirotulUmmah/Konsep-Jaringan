@@ -1,6 +1,6 @@
 # Ping dan Traceroute
 Oleh  :
-Amirotul Ummah (3122600017) - 2 D4 Teknik Informatika A
+Amirotul Ummah (3122600017) - 2 D4 Teknik Informatika A <br>
 Mata Kuliah  :
 Konsep Jaringan
 

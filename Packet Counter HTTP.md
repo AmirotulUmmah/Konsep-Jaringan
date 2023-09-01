@@ -4,7 +4,7 @@ Amirotul Ummah (3122600017) - 2 D4 Teknik Informatika A <br>
 Mata Kuliah  :
 Konsep Jaringan
 
-![alt text](https://github.com/AmirotulUmmah/Konsep-Jaringan/blob/main/assets/packetcounter.png?raw=true)
+![alt text](https://github.com/AmirotulUmmah/Konsep-Jaringan/blob/main/assets/packetcounter.png?raw=true)<br>
 Packet counter di dalam HTTP merupakan penghitungan jumlah paket yang dikirim dan diterima selama pertukaran data antara klien dan server melalui protokol HTTP. Paket adalah unit data yang dikirim melalui jaringan dan dapat berisi informasi seperti permintaan HTTP atau respons HTTP. Penghitungan paket dapat memberikan wawasan tentang seberapa banyak data yang dikirim atau diterima selama komunikasi, serta membantu dalam analisis kinerja dan pemecahan masalah.
 
 ## Topic/Item

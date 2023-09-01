@@ -1,4 +1,4 @@
-# Paclet Counter
+# Packet Counter
 Oleh  :
 Amirotul Ummah (3122600017) - 2 D4 Teknik Informatika A <br>
 Mata Kuliah  :

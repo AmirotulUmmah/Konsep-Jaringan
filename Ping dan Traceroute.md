@@ -11,6 +11,7 @@ Ada beberapa cara untuk menguji konektivitas di dalam jaringan yakni dengan nslo
 
 ## ping
 Ping adalah singkatan dari Packet Internet Network Groper, perintah yang digunakan untuk mengecek status dan keberadaan host dalam sebuah jaringan internet. <br>
+![alt text](https://github.com/AmirotulUmmah/Konsep-Jaringan/blob/main/assets/Sistem-Pengukuran-Kedalam-Laut-dengan-Sonar-Sistem.webp?raw=true)
 Prinsip kerja ping dapat dianalogikan seperti mengukur kedalaman laut menggunakan sonar. Client akan mengirim sinyal ke dasar laut, setelah sinyal sampai di dasar laut maka akan dipantulkan kembali ke client. Pada ping, client akan mengirimkan paket berupa ICPM_ECHO ke host tujuan dan host akan membalas dengan paket berupa ICMP_ECHOREPLAY
 
 #### Fungsi ping

@@ -4,6 +4,7 @@ Amirotul Ummah (3122600017) - 2 D4 Teknik Informatika <br>
 Mata Kuliah  :
 Konsep Jaringan
 
+![alt text](https://github.com/AmirotulUmmah/Konsep-Jaringan/blob/main/assets/3wayshandshak.png?raw=true)
 3 Ways Handshake adalah metode penting yang digunakan untuk menginisiasi koneksi soket TCP yang handal, memungkinkan data dikirimkan dengan aman antara perangkat. Ini sangat berguna dalam memfasilitasi komunikasi antara peramban web di perangkat klien dan server setiap kali Anda menjelajah internet.
 
 ## Alur 3 Ways Handshake

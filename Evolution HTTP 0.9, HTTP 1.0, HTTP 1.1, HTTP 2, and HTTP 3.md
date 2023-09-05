@@ -1,6 +1,9 @@
 # EVOLUTION of HTTP
+Nama  : Amirotul Ummah <br>
+NRP   : 3122600017 <br>
+Mata Kuliah  : Konsep Jaringan
 
-
+![alt text](https://github.com/AmirotulUmmah/Konsep-Jaringan/blob/main/assets/httpevolution.png?raw=true)<br>
 
 ## HTTP/0.9
 HTTP/0.9 adalah versi terlama dari HyperText Transfer Protocol (HTTP). HTTP/0.9 pertama kali dirilis pada tahun 1991, namun seiring berjalannya waktu versi ini telah tergantikan oleh HTTP 1.0, HTTP 1.1, HTTP 2, dan HTTP 3.

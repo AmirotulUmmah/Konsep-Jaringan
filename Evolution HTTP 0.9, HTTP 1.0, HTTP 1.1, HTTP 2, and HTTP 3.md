@@ -39,7 +39,7 @@ HTTP/1.1 dirilis pada tahun 1997 dan mempunyai banyak perubahan yang signifikan 
 
 ## HTTP/2.0
 HTTP/2 pertama kali distandardisasi pada tahun 2015. HTTP/2 dirancang dengan tujuan mengurangi latenSI dan overhead. HTTP/2 memiliki sejumlah fitur dan optimasi baru, termasuk pengkodean biner, multiplexing, server push, dan kompresi header, yang meningkatkan kecepatan dan efisiensi komunikasi web.
-#### FITUR/2.0
+#### FITUR HTTP/2.0
 1. Multiplexing <br> HTTP/2 mendukung multiplexing, yang memungkinkan beberapa permintaan dan respons dapat dikirimkan secara bersamaan melalui satu koneksi. Ini mengurangi latensi dan meningkatkan efisiensi karena permintaan tidak harus menunggu antrian.
 2. Binary Protocol <br> HTTP/2 menggunakan format pesan biner daripada teks ASCII seperti yang digunakan oleh HTTP/1.1. Ini mengurangi beban proses pada server dan memungkinkan pengiriman data yang lebih efisien.
 3. Header Compression <br> Terdapat kompresi header yang lebih baik, yang mengurangi ukuran header permintaan dan respons. Ini membantu menghemat bandwidth dan mempercepat waktu muat halaman.

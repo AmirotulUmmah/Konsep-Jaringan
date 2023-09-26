@@ -21,6 +21,9 @@ Dosen        : Dr. Ferry Astika Saputra, S.T., M.Sc. <br>
 ### Minggu 3
 1. Evolution HTTP 0.9, HTTP 1.0, HTTP 1.1, HTTP 2, and HTTP 3.md
 2. Socket Server dan Client.md
+   - Analisis Blok Source Code
+   - MSS Server dan Client
+3. Connection Termination
 
 ### Minggu 4
 1. TELNET.md

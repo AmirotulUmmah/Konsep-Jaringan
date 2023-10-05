@@ -29,3 +29,6 @@ Dosen        : Dr. Ferry Astika Saputra, S.T., M.Sc. <br>
 1. TELNET.md
 2. Secure Shell Protocol (SSH).md
 3. Domain Name System - DNS.md
+
+## Minggu 7
+1. Cisco Packet Tracer.md

@@ -30,5 +30,8 @@ Dosen        : Dr. Ferry Astika Saputra, S.T., M.Sc. <br>
 2. Secure Shell Protocol (SSH).md
 3. Domain Name System - DNS.md
 
-## Minggu 7
+### Minggu 7
 1. Cisco Packet Tracer.md
+
+### Minggu 8
+1. Ping and Traceroute 2.md

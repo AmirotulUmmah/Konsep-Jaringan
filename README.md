@@ -35,3 +35,6 @@ Dosen        : Dr. Ferry Astika Saputra, S.T., M.Sc. <br>
 
 ### Minggu 8
 1. Ping and Traceroute 2.md
+
+### Minggu 9
+1. Cisco - 4 Skenario.md

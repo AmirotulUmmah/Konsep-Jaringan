@@ -38,3 +38,4 @@ Dosen        : Dr. Ferry Astika Saputra, S.T., M.Sc. <br>
 
 ### Minggu 9
 1. Cisco - 4 Skenario.md
+2. Six-Subnets.md

@@ -45,3 +45,7 @@ Dosen        : Dr. Ferry Astika Saputra, S.T., M.Sc. <br>
 
 ## Minggu 11
 1. Routing-PENS.md
+2. Physical-Logical Model, Ping 3PC.md
+
+## Minggu 12
+1. Dynamic Routing.md

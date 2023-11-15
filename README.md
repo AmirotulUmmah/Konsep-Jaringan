@@ -49,3 +49,8 @@ Dosen        : Dr. Ferry Astika Saputra, S.T., M.Sc. <br>
 
 ## Minggu 12
 1. Dynamic Routing.md
+2. Traceroute.md
+
+## Minggu 13
+1. Chat.md
+2. Bandwidth-Test.md

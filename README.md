@@ -54,3 +54,6 @@ Dosen        : Dr. Ferry Astika Saputra, S.T., M.Sc. <br>
 ## Minggu 13
 1. Chat.md
 2. Bandwidth-Test.md
+
+## Minggu 14
+1. KONSEP JARINGAN.pptx

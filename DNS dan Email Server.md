@@ -1,6 +1,6 @@
 Tugas ini merupakan tugas mata kuliah konsep jaringan  yang di bimbing oleh Bpk. Ferry Astika S
 
-# DNS
+# DNS dan EMAIL SERVER
 
 Dalam kerangka revolusi digital, komunikasi melalui internet menjadi aspek integral dalam kehidupan sehari-hari. Dua elemen utama yang berperan penting dalam proses ini adalah DNS (Domain Name System) dan Email Server. Artikel ini akan mengajak pembaca untuk menjelajahi lebih dalam cara kerja keduanya, memahami kompleksitasnya, dan bagaimana keduanya bekerja bersama untuk memfasilitasi komunikasi online yang efisien.
 

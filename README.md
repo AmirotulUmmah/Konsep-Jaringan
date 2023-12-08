@@ -45,21 +45,21 @@ Tugas-tugas berikut merupakan tugas mata kuliah konsep jaringan yang dibimbing o
 ### Minggu 10
 1. Mikrotik Routing.md
 
-## Minggu 11
+### Minggu 11
 1. Routing-PENS.md
 2. Physical-Logical Model, Ping 3PC.md
 
-## Minggu 12
+### Minggu 12
 1. Dynamic Routing.md
 2. Traceroute.md
 
-## Minggu 13
+### Minggu 13
 1. Chat.md
 2. Bandwidth-Test.md
 
-## Minggu 14
+### Minggu 14
 1. KONSEP JARINGAN.pptx
 
-## Minggu 16
+### Minggu 16
 1. DNS dan EMAIL SERVER.md
 2. Arsitektur K.md

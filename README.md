@@ -6,6 +6,8 @@ Kelas        : 2 D4 IT A <br>
 Mata Kuliah  : Konsep Jaringan <br>
 Dosen        : Dr. Ferry Astika Saputra, S.T., M.Sc. <br>
 
+Tugas-tugas berikut merupakan tugas mata kuliah konsep jaringan yang dibimbing oleh Bpk Ferry Astika S
+
 ### Minggu 1
 1. Analisis http.cap, telnet-cooked.cap, dan dns-cap.md
 2. OSI Layers dan TCP IP Layers.md
@@ -57,3 +59,7 @@ Dosen        : Dr. Ferry Astika Saputra, S.T., M.Sc. <br>
 
 ## Minggu 14
 1. KONSEP JARINGAN.pptx
+
+## Minggu 16
+1. DNS dan EMAIL SERVER.md
+2. Arsitektur K.md
